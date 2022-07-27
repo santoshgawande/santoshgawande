@@ -1,6 +1,6 @@
 ## Hi I'm Santosh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Santosh Gawande a Full Stack Web Developer. I Spend most of time coding outstanding projects using Python, Django, Golang etc
+I'm Santosh Gawande a Full Stack Web Developer. I Spend most of time coding outstanding projects using Python, Django etc
 
 <!-- mailbox: Reach me out! -->
 
