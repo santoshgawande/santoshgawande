@@ -9,7 +9,7 @@ I'm Santosh Gawande a Full Stack Web Developer. I Spend most of time coding outs
 
 
 - 🔭 I’m interested in Python related Project
-- 🌱 I’m currently learning Django and Cloud (AWS/GCP) etc.
+- 🌱 I’m currently learning Django and Cloud (AWS) etc.
 - 💞️ I’m looking to collaborate on Open Source Project that are started in Python, golang, Django, Flask etc.
 - 📫 You can reached on Linkedin or Github
 
