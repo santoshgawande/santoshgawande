@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=santoshgawande.santoshgawande)
+![](https://komarev.com/ghpvc/?username=santoshgawande)
 
 #### Github Stats
 
