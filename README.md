@@ -1,29 +1,37 @@
-## Hi I'm Santosh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Santosh Gawande 👋
 
-I'm Santosh Gawande a Senior Software Engineer. I Spend most of time coding outstanding projects using Python, Django etc.
+**Senior Software Engineer** based in India.  
+I learn hard things by rebuilding them from scratch — language models, AI agents, security tooling, and distributed systems — and I publish the whole process: the architecture, the tradeoffs, and what broke.
 
-<!-- mailbox: Reach me out! -->
+[Website](https://santoshgawande.com) · [YouTube](https://www.youtube.com/@santoshrgawande) · [Medium](https://santoshgawande.medium.com/) · [LinkedIn](https://www.linkedin.com/in/santoshgawande/)
 
+---
 
-<!-- TODO: -->
+### 🔨 What I'm Building in Public
 
+I map my open-source work across 5 core engineering pillars:
 
-- 🔭 I’m interested in Python related Project
-- 🌱 I’m currently learning Django and Cloud (AWS) etc.
-- 💞️ I’m looking to collaborate on Open Source Project that are started in Python, golang, Django, Flask etc.
-- 📫 You can reached on Linkedin or Github
+| Pillar | Focus & Repositories | Core Stack |
+|---|---|---|
+| **From Scratch** | Rebuilding core computer science primitives from specs: transformer language models ([`llm-from-scratch`](https://github.com/santoshgawande/llm-from-scratch)), network protocols ([`net-from-scratch`](https://github.com/santoshgawande/net-from-scratch)), and agent runtimes ([`claude-from-scratch`](https://github.com/santoshgawande/claude-from-scratch)). | Python, PyTorch, C/Rust |
+| **AI Engineering** | Local-first prompt engineering, automated evaluation pipelines ([`prompt-optimizer`](https://github.com/santoshgawande/prompt-optimizer)), and personal tool integrations ([`mcp-personal-hub`](https://github.com/santoshgawande/mcp-personal-hub)). | Python, FastMCP, Ollama |
+| **Security & Red-Teaming** | Defensive engineering, prompt injection detection, and vulnerability scanning for AI systems ([`ai-vuln-hunter`](https://github.com/santoshgawande/ai-vuln-hunter)). | Python, AST parsing, SARIF |
+| **System Design** | Distributed primitives, Raft consensus, write-ahead logs, and rate limiters ([`system-design-labs`](https://github.com/santoshgawande/system-design-labs)). | Go, Python, Redis, Postgres |
+| **Autonomous Agents** | Production agents for B2B dev-tool intelligence and market discovery ([`deal-scout`](https://github.com/santoshgawande/deal-scout)). | Python, Docker, SQLite |
 
-<!---
-santoshgawande/santoshgawande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-<!-- #### Top Technologies -->
+### 📜 Verified Credentials
 
+- **Google Cloud Certified — Professional Cloud Architect** ([Verify on Credly](https://www.credly.com/users/santoshgawande))
+- **Google Cloud Certified — Associate Cloud Engineer** ([Verify on Credly](https://www.credly.com/users/santoshgawande))
+- *Kubernetes Certification Path* — In active progress (CKA / CKAD / CKS / KCNA / KCSA).
 
-#### Profile Visits
-![](https://komarev.com/ghpvc/?username=santoshgawande)
+---
 
-#### Github Stats
+### 🌐 Where to Find My Work
 
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santoshgawande&count_private=true&theme=tokyonight&hide=contribs,prs)
+- **Website & Architecture Hub:** [santoshgawande.com](https://santoshgawande.com)
+- **YouTube Channel:** [@santoshrgawande](https://www.youtube.com/@santoshrgawande) — Deep-dive architecture walkthroughs and build-in-public breakdowns.
+- **Medium:** [@santoshgawande](https://santoshgawande.medium.com/) — In-depth engineering post-mortems and system design teardowns.
+- **LinkedIn:** [in/santoshgawande](https://www.linkedin.com/in/santoshgawande/) — Professional network, peer discussions, and tech insights.
